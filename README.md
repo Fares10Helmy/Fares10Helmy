@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm FARES HELMY</h1>
-<h3 align="center"> Rpa and Web developer</h3>
+<h3 align="center"> RPA AND WEB DEVELOPER</h3>
 
 
 
