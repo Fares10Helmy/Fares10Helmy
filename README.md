@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm FARES HELMY</h1>
-<h3 align="center">a Rpa and Web developer</h3>
+<h3 align="center"> Rpa and Web developer</h3>
 
 - 🌱 I’m currently learning **Frameworks**
 
